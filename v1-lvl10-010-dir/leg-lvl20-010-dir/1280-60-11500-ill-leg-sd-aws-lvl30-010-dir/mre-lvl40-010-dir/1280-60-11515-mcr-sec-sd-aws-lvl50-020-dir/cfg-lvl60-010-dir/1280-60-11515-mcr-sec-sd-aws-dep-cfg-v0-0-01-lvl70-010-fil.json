@@ -1,1 +1,19 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "tablesPartitionKEY": "constant",
+  "tableSortKEY": "none",
+  "secondaryIndexKEY": "0",
+  "deletionProtectionKEY": "Off",
+  "readCapacityModeKEY": "On-demand",
+  "writeCapacityModeKEY": "On-demand",
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "1280-60-11515-mcr-sec-sd-aws",
+    "resourceTypeTAG": "sec",
+    "blockNumberTAG": "1280-60",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentTypeTAG": "cdk"
+  }
+}

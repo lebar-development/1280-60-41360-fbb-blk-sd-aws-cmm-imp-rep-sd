@@ -1,1 +1,7 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "webServicePlatformKEY": "Jump",
+  "accountNumberKEY": "635602896676",
+  "regionKEY": "eu-west-2",
+  "serviceKEY": "sec"
+}
