@@ -1,1 +1,13 @@
-Sample file.
+{
+  "v1-lvl10-010-dir": {
+    "leg-lvl20-010-dir": {
+      "1280-60-11500-ill-leg-sd-aws-lvl30-010-dir": {
+        "mre-lvl40-010-dir": {
+          "1280-60-00010-jcr-ssh-sd-aws-lvl50-010-dir": {
+            "rmt-lvl60-050-dir": "1280-60-00010-jcr-ssh-sd-aws-dep-rmt-v0-0-01-lvl70-010-fil.json"
+          }
+        }
+      }
+    }
+  }
+}
