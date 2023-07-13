@@ -1,11 +1,10 @@
 {
   "resourceMetadataKEY": "yes",
-  "tablesPartitionKEY": "constant",
-  "tableSortKEY": "none",
-  "secondaryIndexKEY": "0",
-  "deletionProtectionKEY": "Off",
-  "readCapacityModeKEY": "On-demand",
-  "writeCapacityModeKEY": "On-demand",
+  "resourceTypeTAG": "other-type-of-secret",
+  "resourceStringTypeKEY": "plaintext",
+  "secretTextKEY": "XXXX",
+  "resourceNameKEY": "jump-github-private-ssh-key-1280-60-sec-sd",
+  "resourceDescriptionKEY": "This secret contains data for ssh key jump-github-1280-60-ssh-sd",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "1280-60-11515-mcr-sec-sd-aws",
