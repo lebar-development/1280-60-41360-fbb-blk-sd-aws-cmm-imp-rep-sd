@@ -1,3 +1,3 @@
 {
-    "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "no",
 }
