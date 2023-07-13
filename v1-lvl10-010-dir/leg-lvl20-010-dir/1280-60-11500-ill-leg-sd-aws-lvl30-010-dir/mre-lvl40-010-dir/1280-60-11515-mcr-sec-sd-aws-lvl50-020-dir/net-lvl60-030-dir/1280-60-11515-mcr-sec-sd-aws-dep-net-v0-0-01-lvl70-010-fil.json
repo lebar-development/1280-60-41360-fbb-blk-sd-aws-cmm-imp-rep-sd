@@ -1,5 +1,6 @@
 {
  "resourceMetadataKEY": "yes",
+ "vpcIDKEY" : "vpc-01f2f78a96c5df9a8",
  "kubeProxyKey": "1.26.4",
  "vpcCniKEY": "1.12.6",
  "coreDnsKEY": "1.9.3",
