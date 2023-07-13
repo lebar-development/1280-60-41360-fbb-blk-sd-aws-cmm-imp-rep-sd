@@ -1,13 +1,27 @@
-{
-  "v1-lvl10-010-dir": {
-    "leg-lvl20-010-dir": {
-      "1280-60-11500-ill-leg-sd-aws-lvl30-010-dir": {
-        "mre-lvl40-010-dir": {
-          "1280-60-00010-jcr-ssh-sd-aws-lvl50-010-dir": {
-            "rmt-lvl60-050-dir": "1280-60-00010-jcr-ssh-sd-aws-dep-rmt-v0-0-01-lvl70-010-fil.json"
-          }
+[
+  {
+    "aliasNameKEY": "none",
+    "blockNumberKEY": "1280-60",
+    "fqbidKEY": "1280-60-41360-fbb-blk-sd-aws",
+    "blockDescriptionKEY": "jump configuration",
+    "stackNameKEY": "1280-60-41360-fbb-blk-sd-aws-ins-dep-stk-v0-0-01-lvl30-010-fil.py",
+    "11500": [
+      {
+        "aliasNameKEY": "none",
+        "fqlidKEY": "1280-60-11500-ill-leg-sd-aws",
+        "stackNameKEY": "1280-60-11500-ill-leg-sd-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      {
+        "ssh": {
+          "aliasNameKEY": "none",
+          "resourceNameKEY": "jump-github-1280-60-ssh-sd.pub",
+          "fqridKEY": "1280-60-00010-jcr-ssh-sd-aws",
+          "accessTypeKEY": "none",
+          "stackNameKEY": "1280-60-00010-jcr-ssh-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+          "deploymentOrderNumber11500KEY": "00010",
+          "deletionProtectionFlag11500KEY": "none"
         }
       }
-    }
+    ]
   }
-}
+]
