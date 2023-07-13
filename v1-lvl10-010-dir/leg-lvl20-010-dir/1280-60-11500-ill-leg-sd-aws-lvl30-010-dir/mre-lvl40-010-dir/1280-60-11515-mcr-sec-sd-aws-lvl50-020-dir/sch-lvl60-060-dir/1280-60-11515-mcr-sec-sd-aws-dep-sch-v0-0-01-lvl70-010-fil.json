@@ -1,1 +1,9 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "plainTextKEY": "SSHKEY",
+  "resourceTagKEY": {
+    "ticketIDTAG": "ticket-number",
+    "botNameTAG": "name",
+    "deploymentDateTAG": "current-date"
+  }
+}
