@@ -3,7 +3,6 @@
   "secretTextKEY": "ssh public key data",
   "resourceTagKEY": {
     "ticketIDTAG": "ticket-number",
-    "botNameTAG": "name",
     "deploymentDateTAG": "current-date"
   }
 }
