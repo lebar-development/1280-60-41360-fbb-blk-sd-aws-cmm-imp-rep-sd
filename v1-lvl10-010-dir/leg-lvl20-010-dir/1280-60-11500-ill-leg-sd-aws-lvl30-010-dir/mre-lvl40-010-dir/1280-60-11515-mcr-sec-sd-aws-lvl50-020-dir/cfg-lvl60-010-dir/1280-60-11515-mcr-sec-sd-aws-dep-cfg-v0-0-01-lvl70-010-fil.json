@@ -1,10 +1,11 @@
 {
   "resourceMetadataKEY": "yes",
+  "sshNameKEY": "jump-github-1280-60-ssh-sd.pub"
   "resourceTypeTAG": "other-type-of-secret",
   "resourceStringTypeKEY": "plaintext",
   "secretTextKEY": "XXXX",
-  "resourceNameKEY": "jump-github-private-ssh-key-1280-60-sec-sd",
-  "resourceDescriptionKEY": "This secret contains data for ssh key jump-github-1280-60-ssh-sd",
+  "resourceNameKEY": "jump-github-public-ssh-key-1280-60-sec-sd",
+  "resourceDescriptionKEY": "This secret contains data for ssh public key jump-github-1280-60-ssh-sd.pub",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "1280-60-11515-mcr-sec-sd-aws",
@@ -13,6 +14,6 @@
     "appTAG": "sambar",
     "envTAG": "sd",
     "regionCodeTAG": "eu-west-2",
-    "deploymentTypeTAG": "cdk"
+    "deploymentTypeTAG": "sdk"
   }
 }
