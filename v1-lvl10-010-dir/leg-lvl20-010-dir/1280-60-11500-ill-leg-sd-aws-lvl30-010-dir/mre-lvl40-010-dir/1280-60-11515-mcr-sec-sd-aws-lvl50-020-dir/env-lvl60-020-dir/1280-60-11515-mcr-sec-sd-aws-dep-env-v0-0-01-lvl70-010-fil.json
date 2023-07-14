@@ -1,7 +1,13 @@
 {
   "resourceMetadataKEY": "yes",
-  "webServicePlatformKEY": "AWS",
+  "webServicePlatformNameKEY": "aws",
   "accountNumberKEY": "635602896676",
-  "regionKEY": "eu-west-2",
-  "serviceKEY": "Secret Manager"
+  "regionAreaNameKEY": "europe",
+  "regionNameKEY": "london",
+  "regionCodeKEY": "eu-west-2",
+  "aAvailabilityZoneCodeKEY": "eu-west-2a",
+  "bAvailabilityZoneCodeKEY": "eu-west-2b",
+  "cAvailabilityZoneCodeKEY": "eu-west-2c",
+  "serviceNameKEY": "Secret Manager",
+  "serviceTypeKEY": "regional"
 }
