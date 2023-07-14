@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+    "inboundRuleKEY": {
+    "trafficTypeKEY": "All trafic",
+    "protocolTypeKEY": "All",
+    "portRangeKEY": "All",
+    "sourceIPKEY": "XXXX",
+    "ruleDescriptionKEY": "XXXX"
+}
