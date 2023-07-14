@@ -4,7 +4,6 @@
   "resourceTypeTAG": "other-type-of-secret",
   "resourceStringTypeKEY": "plaintext",
   "secretTextKEY": "XXXX",
-  "resourceNameKEY": "jump-github-public-ssh-key-1280-60-sec-sd",
   "resourceDescriptionKEY": "This secret contains data for ssh public key jump-github-1280-60-ssh-sd.pub",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
