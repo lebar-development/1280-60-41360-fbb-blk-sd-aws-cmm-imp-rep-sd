@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "plainTextKEY": "SSHKEY",
+  "secretTextKEY": "ssh public key data",
   "resourceTagKEY": {
     "ticketIDTAG": "ticket-number",
     "botNameTAG": "name",
