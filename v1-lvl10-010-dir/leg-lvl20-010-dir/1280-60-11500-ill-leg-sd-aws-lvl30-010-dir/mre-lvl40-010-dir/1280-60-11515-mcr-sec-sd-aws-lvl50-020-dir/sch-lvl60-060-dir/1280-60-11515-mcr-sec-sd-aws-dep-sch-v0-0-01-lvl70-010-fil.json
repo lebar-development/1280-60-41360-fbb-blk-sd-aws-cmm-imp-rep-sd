@@ -2,7 +2,7 @@
   "resourceMetadataKEY": "yes",
   "secretTextKEY": "ssh public key data",
   "resourceTagKEY": {
-    "ticketIDTAG": "ticket-number",
-    "deploymentDateTAG": "current-date"
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
   }
 }
