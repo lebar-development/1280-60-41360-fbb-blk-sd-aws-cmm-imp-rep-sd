@@ -2,7 +2,7 @@
   "resourceMetadataKEY": "yes",
   "resourceDescriptionKEY": "This secret contains data for ssh public key jump-github-1280-60-ssh-sd.pub",
   "sshNameKEY": "jump-github-1280-60-ssh-sd.pub",
-  "resourceTypeTAG": "other-type-of-secret",
+  "resourceTypeKEY": "other-type-of-secret",
   "resourceStringTypeKEY": "plaintext",
   "secretTextKEY": "XXXX",
   "resourceTagKEY": {
