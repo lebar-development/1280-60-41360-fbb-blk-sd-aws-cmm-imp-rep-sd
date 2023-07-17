@@ -1,0 +1,17 @@
+{
+  "resourceMetadataKEY": "yes",
+  "packageListKEY": [
+    {
+      "packageNameKEY": "npm",
+      "packageVersionNumberKEY": "8.09"
+    },
+    {
+      "packageNameKEY": "node.js",
+      "packageVersionNumberKEY": "16.09"
+    },
+    {
+      "packageNameKEY": "python",
+      "packageVersionNumberKEY": "3.8.10"
+    }
+  ]
+}
