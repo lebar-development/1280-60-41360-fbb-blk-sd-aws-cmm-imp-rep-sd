@@ -1,0 +1,8 @@
+{
+  "resourceMetadataKEY": "yes",
+  "secretTextKEY": "SSHKEY",
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}
