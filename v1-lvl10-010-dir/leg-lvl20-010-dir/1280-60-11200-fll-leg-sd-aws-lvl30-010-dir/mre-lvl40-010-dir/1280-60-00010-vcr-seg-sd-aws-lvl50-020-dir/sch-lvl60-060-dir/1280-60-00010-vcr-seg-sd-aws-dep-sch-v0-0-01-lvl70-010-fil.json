@@ -1,5 +1,0 @@
-{
-  "resourceMetadataKEY": "yes",
-  "sourceIPKEY": "jump-instance private ip",
-  "ruleDescriptionKEY": "access from the jump (instance-name)."
-}
