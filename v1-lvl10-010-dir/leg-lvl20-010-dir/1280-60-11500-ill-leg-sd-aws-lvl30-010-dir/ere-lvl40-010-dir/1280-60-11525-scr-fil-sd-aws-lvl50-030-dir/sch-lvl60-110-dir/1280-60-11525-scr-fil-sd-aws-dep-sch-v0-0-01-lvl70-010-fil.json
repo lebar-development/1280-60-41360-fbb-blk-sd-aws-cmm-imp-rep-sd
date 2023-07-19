@@ -1,0 +1,5 @@
+{
+  "resourceMetadataKEY": "yes",
+  "userKEY": "ssh-public-key-id",
+  "identityFileKEY": "~/.ssh/ssh-private-key-name",
+}

@@ -1,0 +1,12 @@
+{
+  "resourceMetadataKEY": "yes",
+  "hosKEY": "github.com",
+  "hostNameKEY": "github.com",
+  "userKEY": "ssh-id",
+  "identityFileKEY": "~/.ssh/private-key-file-name",
+  "identitiesOnlyKEY": "yes",
+  "serverAliveIntervalKEY": "175",
+  "serverAliveCountMaxKEY": "20",
+  "pubkeyAcceptedKeyTypesKEY": "+ssh-rsa",
+  "hostkeyAlgorithmsKEY": "+ssh-rsa"
+}
